@@ -30,3 +30,5 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,neovim,arch" />
   </a>
 </p>
+
+![Elopin42 GitHub stats](https://github-readme-stats.vercel.app/api?username=elopin42&show_icons=true&theme=radical)
