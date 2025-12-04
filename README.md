@@ -4,7 +4,7 @@
 
 
  ```lua
-                     -`                                       Contact: elopin@student.42.fr
+                     -`                                       Contact: ethanlo0506@gmail.com
                     .o+`                                      ---------------------------------
                    `ooo/                                      Role: student
                   `+oooo:                                     Focus: ERP/CRMs
@@ -24,9 +24,5 @@
    `++:.                           `-/+/                      
    .`                                 `                       
 ```
-
-
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&theme=tokyonight&hide_border=true)
 
 
