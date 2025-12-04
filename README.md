@@ -6,7 +6,7 @@
 
 I build intelligent systems end-to-end:  
 machine learning, backend architectures, automation, ERP/CRM features and real business tools.
- ```
+ ```lua
                      -`                                       Contact: ethan@sips.dev
                     .o+`                                      ---------------------------------
                    `ooo/                                      Role: AI Engineer (Fintech – Bankin’)
