@@ -7,13 +7,13 @@
                      -`                                       Contact: ethanlo0506@gmail.com
                     .o+`                                      ---------------------------------
                    `ooo/                                      Role: student(42 Paris)
-                  `+oooo:                                     Focus: ERP/CRMs
-                 `+oooooo:                                    Stack: Python , Django, Tryton, Odoo 19 CE, C, C++
+                  `+oooo:                                     Focus: ERP/CRMs | 42
+                 `+oooooo:                                    Stack: Django, Tryton, Odoo 19 CE, C, C++
                  -+oooooo+:                                   
                `/:-:++oooo+:                                  
               `/++++/+++++++:                                
-             `/++++++++++++++:                                OS: Arch Linux (Hyprland)
-            `/+++ooooooooooooo/`                              Editor: Neovim (Omarchy)
+             `/++++++++++++++:                                OS: Arch Linux - omarchy (Hyprland)
+            `/+++ooooooooooooo/`                              Editor: Neovim 
            ./ooosssso++osssssso+`                             
           .oossssso-````/ossssss+`                            
          -osssssso.      :ssssssso.                           
