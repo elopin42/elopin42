@@ -25,4 +25,6 @@
    .`                                 `                       
 ```
 
-
+```zsh
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=callistakarsenty&layout=compact&hide=JavaScript&theme=tokyonight)
+```
