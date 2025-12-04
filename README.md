@@ -6,7 +6,7 @@
  ```lua
                      -`                                       Contact: ethanlo0506@gmail.com
                     .o+`                                      ---------------------------------
-                   `ooo/                                      Role: student
+                   `ooo/                                      Role: student(42 Paris)
                   `+oooo:                                     Focus: ERP/CRMs
                  `+oooooo:                                    Stack: Python , Django, Tryton, Odoo 19 CE, C, C++
                  -+oooooo+:                                   
