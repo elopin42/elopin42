@@ -28,7 +28,7 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elopin42&theme=tokyonight&layout=compact&hide_border=true&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elopin42&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
