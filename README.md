@@ -2,6 +2,7 @@
 <div align="center">
  <a href="https://github.com/Nimon77/badge42"><img   src="https://badge.nimon.fr/api/v2/cmirotfw59608501pa2mxgpvl5/stats?cursusId=21&coalitionId=45" alt="elopin's 42 stats" /></a>
 </div>
+
 ---
 
  ```lua
@@ -27,9 +28,11 @@
 ```
 
 ---
+
 <div align="center">
 ![Top Langs](https://github-readme-stats-nine-ebon-v6stgwm30c.vercel.app/api/top-langs/?username=elopin42&layout=compact&theme=tokyonight&hide_border=true)
 </div>
+
 ---
 
 <p align="center">
