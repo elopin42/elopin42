@@ -28,7 +28,7 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elopin42&layout=compact&theme=tokyonight" alt="Top Langs" />
+![Top Langs](https://github-readme-stats-nine-ebon-v6stgwm30c.vercel.app/api/top-langs/?username=elopin42&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
