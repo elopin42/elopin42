@@ -2,6 +2,7 @@
 
 <a href="https://github.com/Nimon77/badge42"><img src="https://badge.nimon.fr/api/v2/cmirotfw59608501pa2mxgpvl5/stats?cursusId=21&coalitionId=45" alt="elopin's 42 stats" /></a>
 
+---
 
  ```lua
                      -`                                       Contact: ethanlo0506@gmail.com
@@ -24,6 +25,12 @@
    `++:.                           `-/+/                      
    .`                                 `                       
 ```
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elopin42&theme=tokyonight&layout=compact&hide_border=true&langs_count=6)
+
+---
 
 <p align="center">
   <a href="https://skillicons.dev">
