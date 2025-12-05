@@ -6,6 +6,7 @@
 ---
 
 <div align="center">
+ 
  ```lua
                      -`                                       Contact: ethanlo0506@gmail.com
                     .o+`                                      ---------------------------------
@@ -27,13 +28,17 @@
    `++:.                           `-/+/                      
    .`                                 `                       
 ```
+ 
 </div>
 
 ---
 
 <div align="center">
+
 ![Top Langs](https://github-readme-stats-nine-ebon-v6stgwm30c.vercel.app/api/top-langs/?username=elopin42&layout=compact&theme=tokyonight&hide_border=true)
+
 </div>
+
 
 ---
 
