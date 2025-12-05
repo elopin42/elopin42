@@ -4,8 +4,6 @@
 </div>
 
 ---
-
-<div align="center">
  
  ```lua
                      -`                                       Contact: ethanlo0506@gmail.com
@@ -28,8 +26,6 @@
    `++:.                           `-/+/                      
    .`                                 `                       
 ```
- 
-</div>
 
 ---
 
