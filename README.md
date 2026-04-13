@@ -6,7 +6,7 @@
 ---
  
  ```lua
-                     -`                                       Contact: ethanlo0506@gmail.com
+                     -`                                       Contact: ethan@42entrepreneurs.com
                     .o+`                                      ---------------------------------
                    `ooo/                                      Role: student(42 Paris)
                   `+oooo:                                     Focus: ERP/CRMs | 42
