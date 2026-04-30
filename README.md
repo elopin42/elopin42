@@ -1,7 +1,7 @@
 <div align="center">
 
 ```
-ethan lopin — elopin42
+ethan — elopin42
 ```
 
 **student @ 42 Paris** · ERP/CRM · Systems Programming
