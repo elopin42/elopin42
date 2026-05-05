@@ -1,103 +1,96 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=onedark"  />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=elopin&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=student%2042Paris&descSize=18&descAlignY=55&textBg=false"/>
 
-###
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=elopin42">
+    <img src="https://komarev.com/ghpvc/?username=elopin42&label=Profile%20views&color=00FFFF&style=flat-square" alt="elopin42's profile views" />
+  </a>
+</p>
+
+## 📌 About Me
+- student at 42Paris
+
+
+## 🧠 My Focus Areas
+- webapp
+
+
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/elopin42">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=elopin42&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="elopin42's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=elopin42&theme=dark&hide_border=true&cache_seconds=86400" alt="elopin42's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=elopin42&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="elopin's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=elopin42&theme=dark&radius=10" alt="elopin42's Activity Graph" />
+</p>
+
+
+## 🛠️ Languages & Tools
+
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
+
+</p>
+
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />
+
+</p>
+
+<h3 align="center">Backend</h3>
+<p align="center">
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" />
+
+</p>
+
+<h3 align="center">Database</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />
+
+</p>
+
+<h3 align="center">DevOps & Cloud</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />
+
+</p>
+
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />
+
+</p>
+
+<p align="center">
+  <a href="https://github.com/elopin42">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=elopin42&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/eth-lop"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="elopin's LinkedIn"/></a>&nbsp;&nbsp;
+  <a href="mailto:ethan@42entrepreneurs.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="elopin's Email"/></a>&nbsp;&nbsp;
+  <a href="https://linktr.ee/elopin"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a>
+</p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elopin42/elopin42/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elopin42/elopin42/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/elopin42/elopin42/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+<p align="center"><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/elopin" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
-<div align="center">
-  <a href="https://open.spotify.com/user/Lop1">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Lop1&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
 
-###
-
-<img src="https://raw.githubusercontent.com/elopin42/elopin42/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elopin42&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elopin42&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/vim/019733" height="40" alt="vim logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="neovim logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="cloudflare logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/eth-lop/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://linktr.ee/elopin" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=elopin42.elopin42&"  />
-</div>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=180&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=onedark"  />
-</div>
-
-###
