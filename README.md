@@ -19,7 +19,6 @@
   <a href="https://github.com/elopin42">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=elopin42&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="elopin42's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=elopin42&theme=dark&hide_border=true&cache_seconds=86400" alt="elopin42's GitHub Streak" width="49%" />
 </p>
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=elopin42&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="elopin's GitHub Trophies" />
