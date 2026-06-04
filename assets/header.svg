@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 440" width="1000" height="440" font-family="'Helvetica Neue', 'Helvetica', 'Arial', sans-serif" role="img" aria-label="Ethan Lopin — 42 Paris, software engineering student">
+  <defs>
+    <radialGradient id="glow" cx="78%" cy="86%" r="60%">
+      <stop offset="0%" stop-color="#e0b074" stop-opacity="0.55"/>
+      <stop offset="45%" stop-color="#c98f50" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#0b0c10" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="6%" cy="-10%" r="55%">
+      <stop offset="0%" stop-color="#5b6b8a" stop-opacity="0.30"/>
+      <stop offset="100%" stop-color="#0b0c10" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#e0b074" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#e0b074" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="42"/>
+    </filter>
+  </defs>
+
+  <!-- ink -->
+  <rect width="1000" height="440" fill="#0b0c10"/>
+  <rect width="1000" height="440" fill="url(#glow2)"/>
+
+  <!-- breathing glow -->
+  <ellipse cx="800" cy="380" rx="300" ry="220" fill="url(#glow)" filter="url(#soft)">
+    <animate attributeName="opacity" values="0.45;0.85;0.45" dur="9s"
+             calcMode="spline" keyTimes="0;0.5;1"
+             keySplines="0.45 0 0.15 1;0.45 0 0.15 1" repeatCount="indefinite"/>
+  </ellipse>
+
+  <!-- faint grid hairlines -->
+  <g stroke="#ffffff" stroke-opacity="0.04">
+    <line x1="72" y1="56" x2="72" y2="384"/>
+    <line x1="928" y1="56" x2="928" y2="384"/>
+  </g>
+
+  <!-- corner meta -->
+  <g fill="#7d8190" font-size="13" letter-spacing="3">
+    <text x="72" y="74">PORTFOLIO</text>
+    <text x="928" y="74" text-anchor="end">PARIS · FR</text>
+    <text x="928" y="384" text-anchor="end">github.com/elopin42</text>
+  </g>
+
+  <!-- name -->
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="1.4s"
+             calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"
+             begin="0.15s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 16" to="0 0"
+                      dur="1.4s" calcMode="spline" keyTimes="0;1"
+                      keySplines="0.16 1 0.3 1" begin="0.15s" fill="freeze"/>
+    <text x="70" y="214" font-size="116" font-weight="300" fill="#efece6" letter-spacing="1">ethan</text>
+    <text x="70" y="320" font-size="116" font-weight="300" fill="#efece6" letter-spacing="1">lopin<tspan dx="14" dy="-4" fill="#e0b074" font-size="116">.</tspan></text>
+  </g>
+
+  <!-- accent rule -->
+  <rect x="74" y="350" width="0" height="2" fill="url(#rule)">
+    <animate attributeName="width" from="0" to="300" dur="1.2s"
+             calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"
+             begin="0.6s" fill="freeze"/>
+  </rect>
+
+  <!-- subline -->
+  <text x="74" y="384" fill="#9aa0ad" font-size="15" letter-spacing="5" opacity="0">
+    42 PARIS &#160; — &#160; SOFTWARE ENGINEERING
+    <animate attributeName="opacity" from="0" to="1" dur="1s"
+             begin="0.9s" fill="freeze"/>
+  </text>
+</svg>
