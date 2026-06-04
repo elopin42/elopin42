@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/elopin42">
-    <img src="./assets/header.svg" alt="Ethan Lopin — 42 Paris, software engineering" width="100%" />
+    <img src="./assets/header.svg" alt="Elopin — 42 Paris, software engineering" width="100%" />
   </a>
 </p>
 
