@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 440" width="1000" height="440" font-family="'Helvetica Neue', 'Helvetica', 'Arial', sans-serif" role="img" aria-label="Ethan Lopin — 42 Paris, software engineering student">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 440" width="1000" height="440" font-family="'Helvetica Neue', 'Helvetica', 'Arial', sans-serif" role="img" aria-label="Elopin — 42 Paris, software engineering student">
   <defs>
     <radialGradient id="glow" cx="78%" cy="86%" r="60%">
       <stop offset="0%" stop-color="#e0b074" stop-opacity="0.55"/>
@@ -50,8 +50,8 @@
     <animateTransform attributeName="transform" type="translate" from="0 16" to="0 0"
                       dur="1.4s" calcMode="spline" keyTimes="0;1"
                       keySplines="0.16 1 0.3 1" begin="0.15s" fill="freeze"/>
-    <text x="70" y="214" font-size="116" font-weight="300" fill="#efece6" letter-spacing="1">ethan</text>
-    <text x="70" y="320" font-size="116" font-weight="300" fill="#efece6" letter-spacing="1">lopin<tspan dx="14" dy="-4" fill="#e0b074" font-size="116">.</tspan></text>
+    <text x="70" y="214" font-size="116" font-weight="300" fill="#efece6" letter-spacing="1">elopin</text>
+    <text x="70" y="320" font-size="116" font-weight="300" fill="#efece6" letter-spacing="1">42<tspan dx="14" dy="-4" fill="#e0b074" font-size="116">.</tspan></text>
   </g>
 
   <!-- accent rule -->
