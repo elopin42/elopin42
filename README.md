@@ -8,6 +8,12 @@
   <i>I build for the web, and I learn the machine running underneath it.</i>
 </p>
 
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=elopin42">
+    <img src="https://komarev.com/ghpvc/?username=elopin42&label=Profile%20views&color=e0b074&style=flat-square" alt="Profile views" />
+  </a>
+</p>
+
 <br/>
 
 <h3 align="center">Now</h3>
@@ -33,6 +39,14 @@
   &nbsp;&nbsp;
   <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=elopin42&hide_border=true&layout=compact&langs_count=6&hide_title=true&bg_color=00000000&text_color=9aa0ad&title_color=e0b074&cache_seconds=7200" alt="Top languages" />
 </p>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg" />
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg" width="100%" />
+</picture>
 
 <br/>
 
