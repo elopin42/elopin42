@@ -61,5 +61,5 @@
 </p>
 
 <p align="center">
-  <sub><i>github.com/elopin42</i></sub>
+  <sub><i>https://devglobe.app/developers/elopin42</i></sub>
 </p>
