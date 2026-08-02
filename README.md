@@ -57,7 +57,6 @@
   &nbsp;
   <a href="https://linktr.ee/elopin"><img src="https://img.shields.io/badge/Links-elopin-15171d?style=flat-square&logo=linktree&logoColor=e0b074" alt="Linktree" /></a>
   &nbsp;
-  <a href="https://buymeacoffee.com/elopin"><img src="https://img.shields.io/badge/Coffee-buy_me_one-15171d?style=flat-square&logo=buymeacoffee&logoColor=e0b074" alt="Buy me a coffee" /></a>
 </p>
 
 <p align="center">
