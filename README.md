@@ -4,9 +4,7 @@
 
 <br/>
 
-I study at 42 Paris, where everything is C, C++ and a shell. Outside school I build web products that real people use: a purchasing network for pharmacies in Saudi Arabia, brake wear telemetry for truck fleets, and two hackathon projects shipped in 24 hours.
-
-### Shipped
+### Sites I built
 
 <a href="https://sips.sa"><img src="./assets/sips.svg" alt="sips.sa, purchasing network for Saudi pharmacies. Django, Odoo 19, PostgreSQL, Redis, Docker" width="100%" /></a>
 <a href="https://loprem.fr"><img src="./assets/loprem.svg" alt="loprem.fr, truck fleet tracking and trailer brake pad wear. Django, PostGIS, TCP ingestion, Leaflet" width="100%" /></a>
