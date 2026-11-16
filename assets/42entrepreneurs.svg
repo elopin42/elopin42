@@ -1,10 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 488 232" width="488" height="232" role="img" aria-label="42entrepreneurs.com, site of the 42 Paris entrepreneurs club">
-<rect x="0.5" y="0.5" width="487" height="231" rx="16" fill="#15161a" stroke="rgba(236,233,227,0.08)"/>
-<circle cx="32" cy="40" r="4" fill="#e0b074"/>
-<text x="44" y="44.5" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13" fill="#6f727b">42 Paris club</text>
-<text x="456" y="45" text-anchor="end" font-family="'Helvetica Neue', Helvetica, Arial, 'Liberation Sans', sans-serif" font-size="16" fill="#6f727b">↗</text>
-<text x="28" y="84" font-family="'Helvetica Neue', Helvetica, Arial, 'Liberation Sans', sans-serif" font-size="26" font-weight="400" fill="#ece9e3">42entrepreneurs.com</text>
-<text x="28" y="120" font-family="'Helvetica Neue', Helvetica, Arial, 'Liberation Sans', sans-serif" font-size="15" font-weight="400" fill="#a3a6ae">Site of the 42 Paris entrepreneurs club. The</text>
-<text x="28" y="142" font-family="'Helvetica Neue', Helvetica, Arial, 'Liberation Sans', sans-serif" font-size="15" font-weight="400" fill="#a3a6ae">school building in 3D, driven by the scroll.</text>
-<text x="28" y="200" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12" fill="#6f727b">Vite  ·  three.js  ·  anime.js  ·  Netlify</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 488 120" width="488" height="120" role="img" aria-label="42entrepreneurs.com, 42 Paris club">
+<rect x="0.5" y="0.5" width="487" height="119" rx="16" fill="#15161a" stroke="rgba(236,233,227,0.08)"/>
+<circle cx="32" cy="36" r="4" fill="#e0b074"/>
+<text x="44" y="40.5" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13" fill="#6f727b">42 Paris club</text>
+<text x="456" y="41" text-anchor="end" font-family="'Helvetica Neue', Helvetica, Arial, 'Liberation Sans', sans-serif" font-size="16" fill="#6f727b">↗</text>
+<text x="28" y="88" font-family="'Helvetica Neue', Helvetica, Arial, 'Liberation Sans', sans-serif" font-size="28" font-weight="400" fill="#ece9e3">42entrepreneurs.com</text>
 </svg>

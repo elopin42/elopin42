@@ -1,24 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 240" width="1000" height="240" role="img" aria-label="sips.sa, purchasing network for Saudi pharmacies">
-<rect x="0.5" y="0.5" width="999" height="239" rx="16" fill="#15161a" stroke="rgba(236,233,227,0.08)"/>
-<circle cx="36" cy="40" r="4" fill="#e0b074"/>
-<text x="48" y="44.5" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13" fill="#6f727b">client · Saudi Arabia</text>
-<text x="968" y="45" text-anchor="end" font-family="'Helvetica Neue', Helvetica, Arial, 'Liberation Sans', sans-serif" font-size="16" fill="#6f727b">↗</text>
-<text x="32" y="88" font-family="'Helvetica Neue', Helvetica, Arial, 'Liberation Sans', sans-serif" font-size="34" font-weight="400" fill="#ece9e3">sips.sa</text>
-<text x="32" y="128" font-family="'Helvetica Neue', Helvetica, Arial, 'Liberation Sans', sans-serif" font-size="16" font-weight="400" fill="#a3a6ae">Purchasing network for Saudi pharmacies. Pharmacies pool</text>
-<text x="32" y="152" font-family="'Helvetica Neue', Helvetica, Arial, 'Liberation Sans', sans-serif" font-size="16" font-weight="400" fill="#a3a6ae">their orders into one tender, suppliers bid once on the</text>
-<text x="32" y="176" font-family="'Helvetica Neue', Helvetica, Arial, 'Liberation Sans', sans-serif" font-size="16" font-weight="400" fill="#a3a6ae">volume, and each pharmacy gets its own delivery.</text>
-<text x="32" y="208" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13" fill="#6f727b">Django  ·  Odoo 19  ·  PostgreSQL  ·  Redis  ·  Docker</text>
-<line x1="600" y1="32" x2="600" y2="208" stroke="rgba(236,233,227,0.08)"/>
-<text x="632" y="44" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12" fill="#6f727b">pooled tender</text>
-<rect x="632" y="72" width="104" height="32" rx="8" fill="#0e0f12" stroke="rgba(236,233,227,0.14)"/><text x="684.0" y="92.0" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12" fill="#a3a6ae">pharmacy A</text>
-<path d="M736 88 C 760 88, 760 136, 780 136" fill="none" stroke="rgba(236,233,227,0.22)"/>
-<rect x="632" y="120" width="104" height="32" rx="8" fill="#0e0f12" stroke="rgba(236,233,227,0.14)"/><text x="684.0" y="140.0" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12" fill="#a3a6ae">pharmacy B</text>
-<path d="M736 136 C 760 136, 760 136, 780 136" fill="none" stroke="rgba(236,233,227,0.22)"/>
-<rect x="632" y="168" width="104" height="32" rx="8" fill="#0e0f12" stroke="rgba(236,233,227,0.14)"/><text x="684.0" y="188.0" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12" fill="#a3a6ae">pharmacy C</text>
-<path d="M736 184 C 760 184, 760 136, 780 136" fill="none" stroke="rgba(236,233,227,0.22)"/>
-<rect x="780" y="120" width="72" height="32" rx="8" fill="rgba(224,176,116,0.08)" stroke="#e0b074"/><text x="816.0" y="140.0" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12" fill="#e0b074">RFQ</text>
-<path d="M852 136 L 872 136" stroke="#e0b074"/>
-<rect x="872" y="120" width="96" height="32" rx="8" fill="#0e0f12" stroke="rgba(236,233,227,0.14)"/><text x="920.0" y="140.0" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12" fill="#a3a6ae">1 supplier</text>
-<text x="920" y="186" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="11" fill="#6f727b">3 deliveries</text>
-<path d="M920 152 L 920 172" stroke="rgba(236,233,227,0.22)" stroke-dasharray="2 3"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 488 120" width="488" height="120" role="img" aria-label="sips.sa, client · Saudi Arabia">
+<rect x="0.5" y="0.5" width="487" height="119" rx="16" fill="#15161a" stroke="rgba(236,233,227,0.08)"/>
+<circle cx="32" cy="36" r="4" fill="#e0b074"/>
+<text x="44" y="40.5" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13" fill="#6f727b">client · Saudi Arabia</text>
+<text x="456" y="41" text-anchor="end" font-family="'Helvetica Neue', Helvetica, Arial, 'Liberation Sans', sans-serif" font-size="16" fill="#6f727b">↗</text>
+<text x="28" y="88" font-family="'Helvetica Neue', Helvetica, Arial, 'Liberation Sans', sans-serif" font-size="28" font-weight="400" fill="#ece9e3">sips.sa</text>
 </svg>

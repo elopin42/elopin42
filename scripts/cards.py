@@ -64,99 +64,19 @@ header = f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" widt
 '''
 (OUT / "header.svg").write_text(header)
 
-
-# ---------- featured cards (1000 x 240) with a product moment on the right ----------
-def featured(name, tag, domain, desc, stack, moment, label):
-    body = "\n".join([
-        card_head(32, tag, domain, 1000, 34),
-        lines(32, 128, desc, 16, T2, 24),
-        f'<text x="32" y="208" font-family="{MONO}" font-size="13" fill="{T3}">{e("  ·  ".join(stack))}</text>',
-        f'<line x1="600" y1="32" x2="600" y2="208" stroke="{LINE}"/>',
-        moment,
-    ])
-    (OUT / f"{name}.svg").write_text(svg(1000, 240, body, label))
-
-
-def box(x, y, w, h, text, accent=False):
-    stroke = ACC if accent else "rgba(236,233,227,0.14)"
-    fill = "rgba(224,176,116,0.08)" if accent else BG
-    col = ACC if accent else T2
-    return (f'<rect x="{x}" y="{y}" width="{w}" height="{h}" rx="8" fill="{fill}" stroke="{stroke}"/>'
-            f'<text x="{x+w/2}" y="{y+h/2+4}" text-anchor="middle" font-family="{MONO}" font-size="12" fill="{col}">{e(text)}</text>')
-
-
-# SIPS: pharmacies pool into one tender, one supplier wins, each pharmacy gets its own delivery
-P = "rgba(236,233,227,0.22)"
-sips_m = [f'<text x="632" y="44" font-family="{MONO}" font-size="12" fill="{T3}">pooled tender</text>']
-ys = [72, 120, 168]
-for i, y in enumerate(ys):
-    sips_m.append(box(632, y, 104, 32, f"pharmacy {'ABC'[i]}"))
-    sips_m.append(f'<path d="M736 {y+16} C 760 {y+16}, 760 136, 780 136" fill="none" stroke="{P}"/>')
-sips_m.append(box(780, 120, 72, 32, "RFQ", accent=True))
-sips_m.append(f'<path d="M852 136 L 872 136" stroke="{ACC}"/>')
-sips_m.append(box(872, 120, 96, 32, "1 supplier"))
-sips_m.append(f'<text x="920" y="186" text-anchor="middle" font-family="{MONO}" font-size="11" fill="{T3}">3 deliveries</text>')
-sips_m.append(f'<path d="M920 152 L 920 172" stroke="{P}" stroke-dasharray="2 3"/>')
-featured(
-    "sips", "client · Saudi Arabia", "sips.sa",
-    ["Purchasing network for Saudi pharmacies. Pharmacies pool",
-     "their orders into one tender, suppliers bid once on the",
-     "volume, and each pharmacy gets its own delivery."],
-    ["Django", "Odoo 19", "PostgreSQL", "Redis", "Docker"],
-    "\n".join(sips_m),
-    "sips.sa, purchasing network for Saudi pharmacies",
-)
-
-# loprem: trailer brake pad wear per axle
-lp = [f'<text x="632" y="44" font-family="{MONO}" font-size="12" fill="{T3}">trailer brake pads</text>']
-axles = [("axle 1", 72), ("axle 2", 64), ("axle 3", 23)]
-for i, (a, v) in enumerate(axles):
-    y = 80 + i * 40
-    low = v < 30
-    lp.append(f'<text x="632" y="{y+4}" font-family="{MONO}" font-size="12" fill="{T2}">{a}</text>')
-    lp.append(f'<rect x="700" y="{y-3}" width="208" height="6" rx="3" fill="rgba(236,233,227,0.08)"/>')
-    lp.append(f'<rect x="700" y="{y-3}" width="{208*v/100:.0f}" height="6" rx="3" fill="{ACC if low else "rgba(236,233,227,0.45)"}"/>')
-    lp.append(f'<text x="968" y="{y+4}" text-anchor="end" font-family="{MONO}" font-size="12" fill="{ACC if low else T2}">{v}%</text>')
-lp.append(f'<text x="632" y="208" font-family="{MONO}" font-size="11" fill="{T3}">Teltonika FMC650 · Codec 8E</text>')
-featured(
-    "loprem", "client · France", "loprem.fr",
-    ["Fleet tracking for trucks. Live position and trailer brake",
-     "pad wear, decoded straight from the Teltonika boxes over",
-     "raw TCP, on a map split per company."],
-    ["Django", "PostGIS", "TCP ingestion", "Leaflet"],
-    "\n".join(lp),
-    "loprem.fr, truck fleet tracking and brake pad wear",
-)
-
-
-# ---------- half cards (488 x 232) ----------
-def half(name, tag, domain, desc, stack, label):
-    body = "\n".join([
-        card_head(28, tag, domain, 488, 26),
-        lines(28, 120, desc, 15, T2, 22),
-        f'<text x="28" y="200" font-family="{MONO}" font-size="12" fill="{T3}">{e("  ·  ".join(stack))}</text>',
-    ])
-    (OUT / f"{name}.svg").write_text(svg(488, 232, body, label))
-
-
-half("coutrio", "product", "coutrio.com",
-     ["Meet people from your own country, city or",
-      "neighbourhood, wherever you live now."],
-     ["globe map", "trip planner", "QR partner deals", "EN / FR"],
-     "coutrio.com, connects people who share the same origins")
-half("42entrepreneurs", "42 Paris club", "42entrepreneurs.com",
-     ["Site of the 42 Paris entrepreneurs club. The",
-      "school building in 3D, driven by the scroll."],
-     ["Vite", "three.js", "anime.js", "Netlify"],
-     "42entrepreneurs.com, site of the 42 Paris entrepreneurs club")
-half("taskvault", "hackathon · 24h · Lisbon", "taskvault.art",
-     ["Task board for freelancers. Each task is paid",
-      "in USDC from its own escrow on Stellar."],
-     ["Django", "Stellar", "USDC escrow", "Hack Meridian"],
-     "taskvault.art, 24 hour hackathon in Lisbon")
-half("darkdatagent", "hackathon · 24h · Paris", "darkdatagent.art",
-     ["Turns a company's tutorial videos into agents",
-      "that do the task by house rules."],
-     ["Python", "Gladia", "H Company", "42AI"],
-     "darkdatagent.art, 24 hour hackathon in Paris")
+# ---------- site cards (488 x 120): tag, domain, nothing else ----------
+SITES = [
+    ("sips", "client · Saudi Arabia", "sips.sa"),
+    ("loprem", "client · France", "loprem.fr"),
+    ("coutrio", "product", "coutrio.com"),
+    ("42entrepreneurs", "42 Paris club", "42entrepreneurs.com"),
+    ("taskvault", "hackathon · 24h · Lisbon", "taskvault.art"),
+    ("darkdatagent", "hackathon · 24h · Paris", "darkdatagent.art"),
+]
+for name, tag, domain in SITES:
+    body = f'''<circle cx="32" cy="36" r="4" fill="{ACC}"/>
+<text x="44" y="40.5" font-family="{MONO}" font-size="13" fill="{T3}">{e(tag)}</text>
+<text x="456" y="41" text-anchor="end" font-family="{SANS}" font-size="16" fill="{T3}">↗</text>
+<text x="28" y="88" font-family="{SANS}" font-size="28" font-weight="400" fill="{T1}">{e(domain)}</text>'''
+    (OUT / f"{name}.svg").write_text(svg(488, 120, body, f"{domain}, {tag}"))
 print("ok")

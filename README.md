@@ -6,13 +6,12 @@
 
 ### Sites I built
 
-<a href="https://sips.sa"><img src="./assets/sips.svg" alt="sips.sa, purchasing network for Saudi pharmacies. Django, Odoo 19, PostgreSQL, Redis, Docker" width="100%" /></a>
-<a href="https://loprem.fr"><img src="./assets/loprem.svg" alt="loprem.fr, truck fleet tracking and trailer brake pad wear. Django, PostGIS, TCP ingestion, Leaflet" width="100%" /></a>
-
-<a href="https://coutrio.com"><img src="./assets/coutrio.svg" alt="coutrio.com, meet people from your own country, city or neighbourhood" width="49%" /></a>
-<a href="https://42entrepreneurs.com"><img src="./assets/42entrepreneurs.svg" alt="42entrepreneurs.com, site of the 42 Paris entrepreneurs club" width="49%" /></a>
-<a href="https://taskvault.art"><img src="./assets/taskvault.svg" alt="taskvault.art, 24 hour hackathon in Lisbon. Freelance tasks paid in USDC from Stellar escrow" width="49%" /></a>
-<a href="https://darkdatagent.art"><img src="./assets/darkdatagent.svg" alt="darkdatagent.art, 24 hour hackathon in Paris. Agents built from tutorial videos" width="49%" /></a>
+<a href="https://sips.sa"><img src="./assets/sips.svg" alt="sips.sa" width="49%" /></a>
+<a href="https://loprem.fr"><img src="./assets/loprem.svg" alt="loprem.fr" width="49%" /></a>
+<a href="https://coutrio.com"><img src="./assets/coutrio.svg" alt="coutrio.com" width="49%" /></a>
+<a href="https://42entrepreneurs.com"><img src="./assets/42entrepreneurs.svg" alt="42entrepreneurs.com" width="49%" /></a>
+<a href="https://taskvault.art"><img src="./assets/taskvault.svg" alt="taskvault.art" width="49%" /></a>
+<a href="https://darkdatagent.art"><img src="./assets/darkdatagent.svg" alt="darkdatagent.art" width="49%" /></a>
 
 ### At 42
 
