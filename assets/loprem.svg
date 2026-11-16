@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 240" width="1000" height="240" role="img" aria-label="loprem.fr, truck fleet tracking and brake pad wear">
+<rect x="0.5" y="0.5" width="999" height="239" rx="16" fill="#15161a" stroke="rgba(236,233,227,0.08)"/>
+<circle cx="36" cy="40" r="4" fill="#e0b074"/>
+<text x="48" y="44.5" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13" fill="#6f727b">client · France</text>
+<text x="968" y="45" text-anchor="end" font-family="'Helvetica Neue', Helvetica, Arial, 'Liberation Sans', sans-serif" font-size="16" fill="#6f727b">↗</text>
+<text x="32" y="88" font-family="'Helvetica Neue', Helvetica, Arial, 'Liberation Sans', sans-serif" font-size="34" font-weight="400" fill="#ece9e3">loprem.fr</text>
+<text x="32" y="128" font-family="'Helvetica Neue', Helvetica, Arial, 'Liberation Sans', sans-serif" font-size="16" font-weight="400" fill="#a3a6ae">Fleet tracking for trucks. Live position and trailer brake</text>
+<text x="32" y="152" font-family="'Helvetica Neue', Helvetica, Arial, 'Liberation Sans', sans-serif" font-size="16" font-weight="400" fill="#a3a6ae">pad wear, decoded straight from the Teltonika boxes over</text>
+<text x="32" y="176" font-family="'Helvetica Neue', Helvetica, Arial, 'Liberation Sans', sans-serif" font-size="16" font-weight="400" fill="#a3a6ae">raw TCP, on a map split per company.</text>
+<text x="32" y="208" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13" fill="#6f727b">Django  ·  PostGIS  ·  TCP ingestion  ·  Leaflet</text>
+<line x1="600" y1="32" x2="600" y2="208" stroke="rgba(236,233,227,0.08)"/>
+<text x="632" y="44" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12" fill="#6f727b">trailer brake pads</text>
+<text x="632" y="84" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12" fill="#a3a6ae">axle 1</text>
+<rect x="700" y="77" width="208" height="6" rx="3" fill="rgba(236,233,227,0.08)"/>
+<rect x="700" y="77" width="150" height="6" rx="3" fill="rgba(236,233,227,0.45)"/>
+<text x="968" y="84" text-anchor="end" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12" fill="#a3a6ae">72%</text>
+<text x="632" y="124" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12" fill="#a3a6ae">axle 2</text>
+<rect x="700" y="117" width="208" height="6" rx="3" fill="rgba(236,233,227,0.08)"/>
+<rect x="700" y="117" width="133" height="6" rx="3" fill="rgba(236,233,227,0.45)"/>
+<text x="968" y="124" text-anchor="end" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12" fill="#a3a6ae">64%</text>
+<text x="632" y="164" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12" fill="#a3a6ae">axle 3</text>
+<rect x="700" y="157" width="208" height="6" rx="3" fill="rgba(236,233,227,0.08)"/>
+<rect x="700" y="157" width="48" height="6" rx="3" fill="#e0b074"/>
+<text x="968" y="164" text-anchor="end" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12" fill="#e0b074">23%</text>
+<text x="632" y="208" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="11" fill="#6f727b">Teltonika FMC650 · Codec 8E</text>
+</svg>

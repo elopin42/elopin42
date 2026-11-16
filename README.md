@@ -1,64 +1,33 @@
-<p align="center">
-  <a href="https://github.com/elopin42">
-    <img src="./assets/header.svg" alt="Elopin — 42 Paris, software engineering" width="100%" />
-  </a>
-</p>
-
-<p align="center">
-  <i>I build for the web, and I learn the machine running underneath it.</i>
-</p>
-
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=elopin42">
-    <img src="https://komarev.com/ghpvc/?username=elopin42&label=Profile%20views&color=e0b074&style=flat-square" alt="Profile views" />
-  </a>
-</p>
+<a href="https://github.com/elopin42">
+  <img src="./assets/header.svg" alt="Elopin. Student at 42 Paris. Six sites live, two built in 24 hours." width="100%" />
+</a>
 
 <br/>
 
-<h3 align="center">Now</h3>
-<p align="center">
-  Software engineering at <b>42 Paris</b>. Shipping web apps, writing C close to the metal,<br/>
-  and treating every project as a reason to learn the next layer down.
-</p>
+I study at 42 Paris, where everything is C, C++ and a shell. Outside school I build web products that real people use: a purchasing network for pharmacies in Saudi Arabia, brake wear telemetry for truck fleets, and two hackathon projects shipped in 24 hours.
 
-<br/>
+### Shipped
 
-<h3 align="center">Stack</h3>
-<p align="center">
-  <code>C</code> &nbsp;·&nbsp; <code>C++</code> &nbsp;·&nbsp; <code>Python</code><br/>
-  <code>Next.js</code> &nbsp;·&nbsp; <code>TypeScript</code> &nbsp;·&nbsp; <code>Tailwind</code> &nbsp;·&nbsp; <code>Django</code><br/>
-  <code>PostgreSQL</code> &nbsp;·&nbsp; <code>MySQL</code> &nbsp;·&nbsp; <code>Docker</code> &nbsp;·&nbsp; <code>Git</code>
-</p>
+<a href="https://sips.sa"><img src="./assets/sips.svg" alt="sips.sa, purchasing network for Saudi pharmacies. Django, Odoo 19, PostgreSQL, Redis, Docker" width="100%" /></a>
+<a href="https://loprem.fr"><img src="./assets/loprem.svg" alt="loprem.fr, truck fleet tracking and trailer brake pad wear. Django, PostGIS, TCP ingestion, Leaflet" width="100%" /></a>
 
-<br/>
+<a href="https://coutrio.com"><img src="./assets/coutrio.svg" alt="coutrio.com, meet people from your own country, city or neighbourhood" width="49%" /></a>
+<a href="https://42entrepreneurs.com"><img src="./assets/42entrepreneurs.svg" alt="42entrepreneurs.com, site of the 42 Paris entrepreneurs club" width="49%" /></a>
+<a href="https://taskvault.art"><img src="./assets/taskvault.svg" alt="taskvault.art, 24 hour hackathon in Lisbon. Freelance tasks paid in USDC from Stellar escrow" width="49%" /></a>
+<a href="https://darkdatagent.art"><img src="./assets/darkdatagent.svg" alt="darkdatagent.art, 24 hour hackathon in Paris. Agents built from tutorial videos" width="49%" /></a>
 
-<h3 align="center">Signal</h3>
-<p align="center">
-  <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api?username=elopin42&hide_border=true&hide_title=true&hide_rank=false&bg_color=00000000&text_color=9aa0ad&icon_color=e0b074&ring_color=e0b074&include_all_commits=true&cache_seconds=7200" alt="Contribution signal" />
-  &nbsp;&nbsp;
-  <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=elopin42&hide_border=true&layout=compact&langs_count=6&hide_title=true&bg_color=00000000&text_color=9aa0ad&title_color=e0b074&cache_seconds=7200" alt="Top languages" />
-</p>
+### At 42
 
-<br/>
+[minishell](https://github.com/elopin42/minishell) · [cub3d](https://github.com/elopin42/cub3d) · [philosophers](https://github.com/elopin42/philosopher) · [ft_irc](https://github.com/elopin42/irc) · [inception](https://github.com/elopin42/inception) · [ft_transcendence](https://github.com/elopin42/ft_transcendence) · [ft_malcolm](https://github.com/elopin42/ft_malcom)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-</picture>
+A shell, a raycaster, a deadlock puzzle, an IRC server, a Docker stack and a multiplayer web app. The low level stuff is why my web code knows what happens under it.
 
-<br/>
+On the side: [dank-retro-viseur](https://github.com/elopin42/dank-retro-viseur), a rear-view mirror for my desktop. One click and the webcam shows who is behind me.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/eth-lop"><img src="https://img.shields.io/badge/LinkedIn-eth--lop-15171d?style=flat-square&logo=linkedin&logoColor=e0b074" alt="LinkedIn" /></a>
-  &nbsp;
-  <a href="mailto:ethan@42entrepreneurs.com"><img src="https://img.shields.io/badge/Email-ethan-15171d?style=flat-square&logo=maildotru&logoColor=e0b074" alt="Email" /></a>
-  &nbsp;
-  <a href="https://linktr.ee/elopin"><img src="https://img.shields.io/badge/Links-elopin-15171d?style=flat-square&logo=linktree&logoColor=e0b074" alt="Linktree" /></a>
-  &nbsp;
-</p>
+### Tools
 
-<p align="center">
-  <sub><i>https://devglobe.app/developers/elopin42</i></sub>
-</p>
+`C` `C++` `Python` `TypeScript` · `Django` `Odoo` `Next.js` `three.js` · `PostgreSQL` `PostGIS` `Redis` · `Docker` `Linux` `Git`
+
+### Contact
+
+[ethan@42entrepreneurs.com](mailto:ethan@42entrepreneurs.com) · [LinkedIn](https://www.linkedin.com/in/eth-lop) · [Linktree](https://linktr.ee/elopin) · [DevGlobe](https://devglobe.app/developers/elopin42)
