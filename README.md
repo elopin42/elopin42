@@ -6,7 +6,7 @@
 
 ### Sites I built
 
-<a href="https://sips.sa"><img src="./assets/sips.svg" alt="sips.sa" width="49%" /></a>
+
 <a href="https://loprem.fr"><img src="./assets/loprem.svg" alt="loprem.fr" width="49%" /></a>
 <a href="https://coutrio.com"><img src="./assets/coutrio.svg" alt="coutrio.com" width="49%" /></a>
 <a href="https://42entrepreneurs.com"><img src="./assets/42entrepreneurs.svg" alt="42entrepreneurs.com" width="49%" /></a>
